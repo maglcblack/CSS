@@ -121,7 +121,7 @@ textarea.form-control{ height: auto;}
 .stui-vodlist li.index{ width: 33.333333%;}
 .stui-vodlist li.like{ width: 100%; padding: 0 0 5px;}
 .stui-vodlist li.topic{ width: 25%;}
-.stui-vodlist__thumb{display: block; position: relative; padding-top: 50%; background: url(//cdn.jsdelivr.net/gh/maglcblack/CSS@main/300x226.png) center no-repeat;}
+.stui-vodlist__thumb{display: block; position: relative; padding-top: 50%; background: url(//cdn.jsdelivr.net/gh/maglcblack/CSS@main/300x226.png) center no-repeat;background-size: cover;}
 .stui-vodlist__thumb.active{ padding-top: 60%; background: url(//cdn.jsdelivr.net/gh/maglcblack/CSS@main/300x226.png) no-repeat; /*background-position:50% 50%;*/ background-size: cover;}
 .stui-vodlist__thumb .play{display: none; position: absolute; top: 0; z-index: 1; width: 100%; height: 100%;  background: rgba(0,0,0,0.4) url(https://cdn.jsdelivr.net/gh/maglcblack/CSS@main/play.svg) center no-repeat; background-size: 25% 25%;}
 .stui-vodlist__thumb:hover .play{ display: block;}
