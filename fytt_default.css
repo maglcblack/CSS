@@ -186,7 +186,7 @@ textarea.form-control{ height: auto;}
 .stui-player__detail .data a:hover{ color: #F90;}
 .data{margin: .75rem 0 !important; display: flex;font-size:16px;}
 .stui-player__detail .data-more p{ margin: .75rem 0 !important;}
-.data-more a { color: #757575;}
+.data-more a { color: #ff9900;}
 .data-more a:hover{ color: #F90;}
 .Refresh ,.menu-switch, .report{ display: inline-block;
 width: 100%;text-align: center;}
