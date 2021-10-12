@@ -364,6 +364,14 @@ width: 96%;}
 	.stui-gbook__item .cont{ padding: 10px;}
 	
 	.hidden-xs{ display: none !important;}
+	.iconfont {
+        font-family: "iconfont" !important;
+        font-size: 20px;
+        font-style: normal;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+         display: block;
+}
 }
 @font-face {
   font-family: "iconfont"; /* Project id 2825842 */
