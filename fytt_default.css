@@ -415,3 +415,7 @@ width: 96%;}
 .icon-process:before {
   content: "\e6c9";
 }
+
+.icon-share:before {
+  content: "\e65d";
+}
