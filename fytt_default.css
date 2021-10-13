@@ -347,7 +347,7 @@ width: 96%;}
 	.stui-player__detail{ padding: 10px;}
 	.stui-player__detail .more{margin:-10px -10px 10px -10px; padding-bottom: 10px; text-align: center; background-color: #333;}
 	.stui-player__detail .more a{ margin-left: 0; margin-right: 10px;}
-	.mac_pop{margin: .5rem;}
+	.mac_pop{margin: .5rem .1rem;}
 	
 	/* playlist */
 	.stui-play__list li{ width: 33.333333%;}
