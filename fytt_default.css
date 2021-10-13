@@ -375,17 +375,21 @@ width: 96%;}
 }
 @font-face {
   font-family: "iconfont"; /* Project id 2825842 */
-  src: url('//at.alicdn.com/t/font_2825842_1a328oed08f.woff2?t=1632333069600') format('woff2'),
-       url('//at.alicdn.com/t/font_2825842_1a328oed08f.woff?t=1632333069600') format('woff'),
-       url('//at.alicdn.com/t/font_2825842_1a328oed08f.ttf?t=1632333069600') format('truetype');
+  src: url('//at.alicdn.com/t/font_2825842_nk7egf0wcsh.woff2?t=1634074694620') format('woff2'),
+       url('//at.alicdn.com/t/font_2825842_nk7egf0wcsh.woff?t=1634074694620') format('woff'),
+       url('//at.alicdn.com/t/font_2825842_nk7egf0wcsh.ttf?t=1634074694620') format('truetype');
 }
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-share:before {
+  content: "\e65d";
 }
 
 .icon-information:before {
@@ -422,8 +426,4 @@ width: 96%;}
 
 .icon-process:before {
   content: "\e6c9";
-}
-
-.icon-share:before {
-  content: "\e65d";
 }
