@@ -368,17 +368,21 @@ width: 96%;}
 }
 @font-face {
   font-family: "iconfont"; /* Project id 2825842 */
-  src: url('//at.alicdn.com/t/font_2825842_nk7egf0wcsh.woff2?t=1634074694620') format('woff2'),
-       url('//at.alicdn.com/t/font_2825842_nk7egf0wcsh.woff?t=1634074694620') format('woff'),
-       url('//at.alicdn.com/t/font_2825842_nk7egf0wcsh.ttf?t=1634074694620') format('truetype');
+  src: url('//at.alicdn.com/t/font_2825842_lnqfe7wmxxr.woff2?t=1634696805560') format('woff2'),
+       url('//at.alicdn.com/t/font_2825842_lnqfe7wmxxr.woff?t=1634696805560') format('woff'),
+       url('//at.alicdn.com/t/font_2825842_lnqfe7wmxxr.ttf?t=1634696805560') format('truetype');
 }
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-telegram:before {
+  content: "\e715";
 }
 
 .icon-share:before {
